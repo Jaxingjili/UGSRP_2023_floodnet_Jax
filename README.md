@@ -7,3 +7,4 @@ The distance we are checking range from 1100mm to 3100mm with a 100mm offset, fo
 The analysis shows the stats result and the distribution of the errors with visualization such as lineplots and heatmaps.
 
 ## Check Sensors' stats
+This notebook is used for checking the stats information cross different sensors

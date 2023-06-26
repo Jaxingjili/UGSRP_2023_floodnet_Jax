@@ -18,3 +18,5 @@ This notebook is used for checking the stats information cross different sensors
 ## Checking critical angles, folder name: 0614 angle plot
 
 ## Analysing data from in field sensors
+### Checking battery level, folder name: 0614 check battery
+### Checking produced depth level, folder name: 0621 check depth
